@@ -12,4 +12,4 @@ The hero background image is surprisingly challenging. I tried flexbox and backg
 
 In the end flexbox worked, with making the image container itself a flexbox and scaling up the image inside by 115%. The container with basis of 400px will flexgrow and scale the image inside it.
 
-Live site URL:
+Live site URL: https://fem-skilled-elearning-landing-page.netlify.app/
